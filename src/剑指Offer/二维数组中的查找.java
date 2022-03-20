@@ -21,7 +21,7 @@ package 剑指Offer;
 public class 二维数组中的查找 {
     class Solution {
         /**
-         * 从又上开始查找
+         * 从上开始查找
          *
          * @param matrix
          * @param target
