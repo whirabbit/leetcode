@@ -1,4 +1,4 @@
-package 剑指Offer;
+package 剑指Offer.day1;
 
 import java.util.Stack;
 

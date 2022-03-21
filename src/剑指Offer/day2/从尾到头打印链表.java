@@ -1,4 +1,4 @@
-package 剑指Offer;
+package 剑指Offer.day2;
 
 import tools.ListNode;
 

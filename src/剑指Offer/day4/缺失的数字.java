@@ -1,4 +1,4 @@
-package 剑指Offer;
+package 剑指Offer.day4;
 
 /**
  * 一个长度为n-1的递增排序数组中的所有数字都是唯一的，

@@ -1,4 +1,4 @@
-package 剑指Offer;
+package 剑指Offer.day2;
 
 /**
  * 请实现 copyRandomList 函数，复制一个复杂链表。
